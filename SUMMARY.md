@@ -5,8 +5,8 @@
 ## Concepts
 
 * [What is DonkeyYO?](concepts/what-is-donkeyyo.md)
-* [🫏 What is Donkeyswap?](concepts/what-is-donkeyswap.md)
-* [How Donkeyswap Works](concepts/how-donkeyswap-works.md)
+* [🫏 What is Donkeyswap?](concepts/what-is-donkeyswap/README.md)
+  * [How Donkeyswap Works](concepts/what-is-donkeyswap/how-donkeyswap-works.md)
 * [💰 Introduction of DON Token](concepts/don-token/README.md)
   * [Overview of Tokenomics](concepts/don-token/overview-of-tokenomics.md)
   * [Supply & Distribution](concepts/don-token/supply-and-distribution.md)
