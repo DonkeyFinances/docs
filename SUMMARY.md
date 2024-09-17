@@ -12,7 +12,7 @@
   * [Supply & Distribution](concepts/don-token/supply-and-distribution.md)
   * [Technology behind DON](concepts/don-token/technology-behind-don.md)
 * [🌍 DonkeyFinances Ecosystem](concepts/donkeyswap-ecosystem.md)
-* [🎯 Benefits of Donkeyswap](concepts/benefits-of-donkeyswap.md)
+* [🎯 Benefits of Donkeyswap](concepts/benefits-of-donkeyswap/README.md)
 * [✨ Fees & Rewards](concepts/fees-and-rewards.md)
 * [🤽‍♂️ Liquidity Pool](concepts/liquidity-pool.md)
 * [🧑‍🌾 Yield Farms](concepts/yield-farms.md)

@@ -1,8 +1,4 @@
----
-icon: crosshairs
----
-
-# Benefits of Donkeyswap
+# 🎯 Benefits of Donkeyswap
 
 • Decentralization: No trusted intermediaries, ensuring transparency and security.
 
