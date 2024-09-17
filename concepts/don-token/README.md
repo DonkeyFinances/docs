@@ -1,8 +1,9 @@
 ---
 description: Governance DAO Token
+icon: sack-dollar
 ---
 
-# DON Token
+# Introduction of DON Token
 
 The DON token is the native asset within the Donkeyswap ecosystem, serving multiple purposes that drive participation and governance. DON tokens are used to reward liquidity providers, pay for transaction fees, and participate in the governance of the platform. Holders of DON tokens have a say in key decisions, including changes to the protocol, the addition of new liquidity pools, and the allocation of rewards.
 

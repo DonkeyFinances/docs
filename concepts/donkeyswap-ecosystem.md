@@ -1,3 +1,7 @@
+---
+icon: earth-asia
+---
+
 # DonkeyFinances Ecosystem
 
 The DonkeyFinances ecosystem is designed to create a comprehensive DeFi platform that maximizes returns for users while ensuring liquidity across all chains. Key components of the ecosystem include:
