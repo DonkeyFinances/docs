@@ -1,2 +1,0 @@
-# Donkey Automated Market Maker
-

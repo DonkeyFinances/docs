@@ -13,7 +13,7 @@ The total supply of **3.03 billion DON** is allocated as follows:
 * **5%** to the community reserve
 * **3%** to employees with a 2-year vesting period
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="143">Community</th><th width="167">1,878,787,881</th></tr></thead><tbody><tr><td>Core Team</td><td>800,961,153</td></tr><tr><td>Investors</td><td>108,129,756</td></tr><tr><td>Employees</td><td>90,909,091</td></tr><tr><td>Reserve</td><td>151,515,152</td></tr></tbody></table>
 
@@ -49,4 +49,4 @@ DON has four primary use cases, many of which require locked DON (veDON):
 For instructions on how to lock DON tokens, refer to the **locking guide**, or for more detailed information about veDON, visit the **veDON page.**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

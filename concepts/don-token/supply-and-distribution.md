@@ -13,7 +13,7 @@ Have a look over this page to learn about how DON has been allocated and how muc
 
 The below chart shows the total allocation of DON to different groups within the DonkeyFinances ecosystem.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Group                                     | Allocated DON | Percentage |
 | ----------------------------------------- | ------------- | ---------- |
@@ -35,7 +35,7 @@ The above allocation shows that the **community will own 67% of all DON** when t
 
 DON officially launched on the **(Date)**. At the time of launch there were no unlocked tokens. **All** tokens in the launch were linearly vested for 1-4 years (gradually unlocking over a period of 1-4 years). The initial supply is quoted as 1,303,030,303 because these tokens were pre-mined and sent into the vesting contracts, which gradually unlocked them. Below shows the allocation to different groups of the initial distribution.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Group                                     | Allocated DON | Vesting Years | Transactions |
 | ----------------------------------------- | ------------- | ------------- | ------------ |
