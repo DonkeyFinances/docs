@@ -14,7 +14,5 @@ Users, known as Liquidity Providers (LPs), contribute assets to liquidity pools 
 
 The ve(3,3) system encourages users to lock their tokens, improving liquidity allocation, governance participation, and reducing selling pressure. This model enhances the platform's overall liquidity and governance, addressing issues such as token dilution and mercenary capital.
 
-* **Yield Optimization and Scalability**
 
-DonkeySwap also features a Yield Optimizer (YO) to maximize yield farming returns. Leveraging the Fuel blockchain’s support for parallel transaction execution through a UTXO model, the platform delivers scalable and efficient solutions, providing advanced features while ensuring a smooth, decentralized experience.
 
