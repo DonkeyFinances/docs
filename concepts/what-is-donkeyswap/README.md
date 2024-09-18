@@ -16,3 +16,5 @@ The ve(3,3) system encourages users to lock their tokens, improving liquidity al
 
 
 
+[https://donkeyfinances.substack.com/p/ve33](https://donkeyfinances.substack.com/p/ve33)
+
