@@ -4,12 +4,14 @@
 
 ## Concepts
 
-* [What is DonkeyYO?](concepts/what-is-donkeyyo.md)
-* [🫏 What is Donkeyswap?](concepts/what-is-donkeyswap/README.md)
+* [🫏 Donkeyswap](concepts/what-is-donkeyswap/README.md)
   * [How Donkeyswap Works](concepts/what-is-donkeyswap/how-donkeyswap-works.md)
+  * [Donkey Automated Market Maker](concepts/what-is-donkeyswap/donkey-automated-market-maker.md)
+* [What is DonkeyYO?](concepts/what-is-donkeyyo.md)
 * [💰 DON Token](concepts/don-token/README.md)
   * [Overview of Tokenomics](concepts/don-token/overview-of-tokenomics.md)
   * [Supply & Distribution](concepts/don-token/supply-and-distribution.md)
+  * [CRV & veCRV](concepts/don-token/crv-and-vecrv.md)
   * [Technology behind DON](concepts/don-token/technology-behind-don.md)
 * [Locked CRV Token](concepts/locked-crv-token/README.md)
   * [Overview](concepts/locked-crv-token/overview.md)
