@@ -1,8 +1,4 @@
----
-icon: sparkles
----
-
-# Fees & Rewards
+# ✨ Fees & Rewards
 
 Fees and rewards play integral roles within the protocol, strategically intertwined to foster ongoing expansion and advancement while also enticing liquidity to join the platform. Their relationship is symbiotic, working together to draw and retain users and liquidity within the protocol, albeit through distinct approaches.
 
