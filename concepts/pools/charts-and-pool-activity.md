@@ -1,6 +1,6 @@
 # Charts and Pool Activity
 
-The Curve UI provides a range of charts and an overview of pool activities, including exchanges and liquidity actions (such as adding or removing liquidity).&#x20;
+The DonkeyFinances UI provides a range of charts and an overview of pool activities, including exchanges and liquidity actions (such as adding or removing liquidity).&#x20;
 
 {% hint style="info" %}
 Please note that this information is currently only available for pools on the Ethereum mainnet.

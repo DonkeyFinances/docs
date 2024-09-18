@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🔓 Locked DON Token
 
 **veDON** stands for "vote-escrowed DON." It is a mechanism used in the DonkeyFinances ecosystem to align incentives for governance and ensure meaningful participation in decision-making.

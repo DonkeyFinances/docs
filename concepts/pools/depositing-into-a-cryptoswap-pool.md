@@ -8,7 +8,7 @@ _For instance, the CVX/ETH pool is used in the examples below._
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-#### Depositing and Staking on Curve Finance
+#### Depositing and Staking on DonkeyFinances
 
 **Depositing Tokens**
 
@@ -19,12 +19,12 @@ _For instance, the CVX/ETH pool is used in the examples below._
 
 **Confirming and Staking**
 
-1. **Approve and Deposit**: First, you need to approve the Curve Finance contract. Then, proceed with the deposit transaction. Be mindful of gas fees; waiting for a lower gas price can help reduce costs, especially if you are making a large deposit.
+1. **Approve and Deposit**: First, you need to approve the DonkeyFinances contract. Then, proceed with the deposit transaction. Be mindful of gas fees; waiting for a lower gas price can help reduce costs, especially if you are making a large deposit.
 2. **Receive LP Tokens**: After depositing, you will receive Liquidity Provider (LP) tokens. These tokens represent your ownership share in the pool and are needed for staking.
-3. **Staking for CRV**: After depositing, you’ll be prompted to deposit your LP tokens into the DAO liquidity gauge. Confirming this transaction will allow you to earn CRV rewards. This step appears only if you deposited under the "Deposit and stake" tab. If you didn't use this tab, you’ll need to manually deposit LP tokens in the gauge under the 'Stake' tab.
-4. **Earning Rewards**: Once staked, you will start earning trading fees and CRV rewards.
+3. **Staking for DON**: After depositing, you’ll be prompted to deposit your LP tokens into the DAO liquidity gauge. Confirming this transaction will allow you to earn DON rewards. This step appears only if you deposited under the "Deposit and stake" tab. If you didn't use this tab, you’ll need to manually deposit LP tokens in the gauge under the 'Stake' tab.
+4. **Earning Rewards**: Once staked, you will start earning trading fees and DON rewards.
 
-_You can click the link below to learn how to boost your CRV rewards by locking CRV on the Curve DAO:_
+_You can click the link below to learn how to boost your DON rewards by locking DON on the_ DonkeyFinances _DON:_
 
-* Boosting your CRV Rewards
-* Staking your $CRV
+* Boosting your DON Rewards
+* Staking your $DON
