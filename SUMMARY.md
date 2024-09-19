@@ -5,10 +5,10 @@
 ## Concepts
 
 * [⭐ Getting Started](concepts/getting-started/README.md)
-  * [DonkeyFinances V1](concepts/getting-started/donkeyfinances-v1.md)
-* [🫏 DonkeySwap](concepts/what-is-donkeyswap/README.md)
-  * [How Donkeyswap Works](concepts/what-is-donkeyswap/how-donkeyswap-works.md)
-  * [Donkey YO](concepts/what-is-donkeyswap/donkey-yo.md)
+  * [DonkeySwap](concepts/getting-started/donkeyswap.md)
+  * [How Donkeyswap Works](concepts/getting-started/how-donkeyswap-works.md)
+  * [FAQ DonekySwap](concepts/getting-started/faq-donekyswap.md)
+  * [Donkey YO](concepts/getting-started/donkey-yo.md)
 * [💰 DON Token](concepts/don-token/README.md)
   * [Overview of Tokenomics](concepts/don-token/overview-of-tokenomics.md)
   * [Supply & Distribution](concepts/don-token/supply-and-distribution.md)
@@ -32,6 +32,7 @@
   * [🤽‍♂️ Liquidity Pool](concepts/concepts/liquidity-pool.md)
   * [🧑‍🌾 Yield Farms](concepts/concepts/yield-farms.md)
 * [FAQ](concepts/faq/README.md)
+  * [Liquidity Pool](concepts/faq/liquidity-pool.md)
   * [Key Differences Between EVM and FuelVM Assets](concepts/faq/key-differences-between-evm-and-fuelvm-assets.md)
   * [What is the difference of tokens and assets?](concepts/faq/what-is-the-difference-of-tokens-and-assets.md)
   * [How to approve tokens/assets?](concepts/faq/how-to-approve-tokens-assets.md)

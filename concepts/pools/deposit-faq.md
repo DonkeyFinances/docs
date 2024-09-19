@@ -2,7 +2,7 @@
 
 **Deposit Wrapped Option:** The "deposit wrapped" option is used in metapools or pools with c-tokens (for Compound) or a-tokens (for AAVE). If you’re depositing a stablecoin into a pool linked to a lending protocol, Curve automatically converts your token into its respective cToken or aToken. This option is only relevant if your token has already been lent on Compound or AAVE. If your stablecoin is in its original form, you can ignore this option. Additionally, if you hold basepool tokens (e.g., 3Crv), you can use this option to deposit them directly into a metapool.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

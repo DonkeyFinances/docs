@@ -21,7 +21,7 @@ When providing liquidity to a pool, you're exposed to all the assets within it, 
 
 Cryptoswap pools contain assets that aren't pegged to each other, such as USDC and ETH. The goal is to maintain an equal value between the assets. For example, if the pool contains $1,000,000 worth of USDC, it will also hold $1,000,000 worth of ETH.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Image: Curve Finance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Image: Curve Finance</p></figcaption></figure>
 
 ***
 
@@ -41,6 +41,6 @@ Liquidity providers can earn two types of yield:
 1. **Base vAPY**: Reflects how much the value of LP tokens is increasing through pool fees.
 2. **Rewards tAPR**: Includes DON inflation rewards, additional token incentives, and points programs. To earn these rewards, LP tokens must be staked in the pool's gauge.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Image: Curve Finance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Image: Curve Finance</p></figcaption></figure>
 
 Some pools may also include yield-bearing tokens (e.g., sUSD or sDAI), with all the yield going directly to Liquidity Providers without any deductions.
