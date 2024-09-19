@@ -35,6 +35,7 @@
   * [Key Differences Between EVM and FuelVM Assets](concepts/faq/key-differences-between-evm-and-fuelvm-assets.md)
   * [What is the difference of tokens and assets?](concepts/faq/what-is-the-difference-of-tokens-and-assets.md)
   * [How to approve tokens/assets?](concepts/faq/how-to-approve-tokens-assets.md)
+* [Social Media](concepts/social-media.md)
 
 ## Products
 
