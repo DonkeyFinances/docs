@@ -1,4 +1,4 @@
-# 👋 Introduction
+# 👋 The Protocol
 
 {% hint style="info" %}
 Developing on Fuel Testnet
@@ -6,7 +6,7 @@ Developing on Fuel Testnet
 
 ## Overview
 
-The DonkeyFinances protocol is a robust peer-to-peer system designed for exchanging cryptocurrencies [(SRC-20 Native Assets)](https://docs.fuel.network/docs/sway-standards/src-20-native-asset/) on the [Fuel Network](https://fuel.network/) blockchain. The protocol is implemented as a set of persistent, non-upgradable smart contracts; designed to prioritize censorship resistance, security, self-custody, and to function without any trusted intermediaries who may selectively restrict access.
+The DonkeyFinances protocol is a robust peer-to-peer system designed for building products exchanging cryptocurrencies [(SRC-20 Native Assets)](https://docs.fuel.network/docs/sway-standards/src-20-native-asset/) on the [Fuel Network](https://fuel.network/) blockchain. The protocol is implemented as a set of persistent, non-upgradable smart contracts; designed to prioritize censorship resistance, security, self-custody, and to function without any trusted intermediaries who may selectively restrict access.
 
 ### How does DonkeyFinances compare to other blockchains?
 
