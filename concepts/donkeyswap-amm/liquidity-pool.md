@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🤽‍♂️ Liquidity Pool
 
 #### **Liquidity Pools**
@@ -10,7 +14,7 @@ Liquidity pools work by holding a reserve of specific assets (depending on the p
 
 #### **Types of Liquidity Pools**
 
-There are several types of liquidity pools available on Sushi, each designed for different trading scenarios:
+There are several types of liquidity pools available on DonkeyFinances, each designed for different trading scenarios:
 
 **1. Constant Product Pools**
 
