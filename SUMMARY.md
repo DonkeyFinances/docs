@@ -31,7 +31,7 @@
   * [Key Differences Between EVM and FuelVM Assets](concepts/faq/key-differences-between-evm-and-fuelvm-assets.md)
   * [What is the difference of tokens and assets?](concepts/faq/what-is-the-difference-of-tokens-and-assets.md)
   * [How to approve tokens/assets?](concepts/faq/how-to-approve-tokens-assets.md)
-  * [How to create Liquidity Pool on Donkeyswap?](concepts/faq/how-to-create-liquidity-pool-on-donkeyswap.md)
+  * [How to deposit tokens into Liquidity Pool on Donkeyswap?](concepts/faq/how-to-deposit-tokens-into-liquidity-pool-on-donkeyswap.md)
 * [Social Media](concepts/social-media.md)
 
 ## Products
